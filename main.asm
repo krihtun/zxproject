@@ -1,3 +1,3 @@
   org  60000
-  ld  a,7
+  ld  a,9
   ret
